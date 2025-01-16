@@ -68,6 +68,12 @@ Follow the steps below to run the project on your local machine:
 
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
+## Dataset 
+
+```bash
+   https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+```
+
 ## License
 
 This project is licensed under the MIT License.
