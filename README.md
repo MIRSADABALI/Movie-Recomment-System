@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation System 
 
 This is a simple **Movie Recommendation System** built using the **TMDB API** and **Streamlit**. It recommends 5 movies based on user preferences.
 
